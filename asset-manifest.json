@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rct-product-search/static/css/main.ef0fb96e.css",
+    "main.js": "/rct-product-search/static/js/main.e982b212.js",
+    "index.html": "/rct-product-search/index.html",
+    "main.ef0fb96e.css.map": "/rct-product-search/static/css/main.ef0fb96e.css.map",
+    "main.e982b212.js.map": "/rct-product-search/static/js/main.e982b212.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef0fb96e.css",
+    "static/js/main.e982b212.js"
+  ]
+}

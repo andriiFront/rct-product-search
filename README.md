@@ -1,5 +1,5 @@
 # App product-search
-TAP **[PREVIEW LINK](https://andriifront.github.io/rct-product-search)** TO SEE DEMO
+TAP **[PREVIEW LINK](https://andriifront.github.io/rct-product-search/)** TO SEE DEMO
 
 
 ## Technologies
@@ -14,7 +14,7 @@ This application implements the application design and implementation methodolog
 
 ## Links
 Source: [link](https://beta.reactjs.org/learn/thinking-in-react)
-WebPage: [link](https://andriifront.github.io/rct-product-search)
+WebPage: [link](https://andriifront.github.io/rct-product-search/)
 Code: [link](https://github.com/andriiFront/rct-product-search)
 
 
